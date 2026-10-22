@@ -105,7 +105,7 @@
     "cmdk": "^1.1.1",
     "d3-force": "^3.0.0",
     "debug": "^4.4.3",
-    "katex": "^0.16.47",
+    "katex": "^0.18.2",
     "lucide-react": "^1.33.0",
     "os-browserify": "^0.3.0",
     "pixi.js": "^8.18.1",
